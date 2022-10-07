@@ -1,0 +1,30 @@
+body {
+  font-family: "Source Sans Pro";
+  font-size: 18px;
+}
+
+header h1 a {
+  color: red;
+}
+
+h1 {
+  border-bottom: 1px solid #999;
+  padding-bottom: 0.5rem;
+  margin-bottom: 2rem;
+}
+
+h2 {
+  margin-bottom: 0;
+}
+
+a {
+  text-decoration-line: none;
+}
+
+p {
+  margin-top: 0.7rem;
+}
+
+h2 a {
+  color: blue;
+}

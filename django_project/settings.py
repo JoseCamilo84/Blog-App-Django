@@ -53,6 +53,8 @@ MIDDLEWARE = [
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
 ]
 
+CSRF_TRUSTED_ORIGINS = ['https://web-production-bfff.up.railway.appgit']
+# https://web-production-bfff.up.railway.app
 ROOT_URLCONF = 'django_project.urls'
 
 TEMPLATES = [
